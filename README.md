@@ -1,0 +1,1 @@
+# device_pantech_vega
